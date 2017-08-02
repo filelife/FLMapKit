@@ -6,5 +6,5 @@
 * Map pin
 
 
-![image](nav.jpeg)
+![image](navi.jpeg)
 
